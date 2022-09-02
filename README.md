@@ -20,7 +20,7 @@ The app relies on a secret set as the environment variable `JWT_SECRET` to produ
 * Git: <a href="https://git-scm.com/downloads" target="_blank">Download and install Git</a> for your system. 
 * Code editor: You can <a href="https://code.visualstudio.com/download" target="_blank">download and install VS code</a> here.
 * AWS Account
-* Python version between 3.7 and 3.9. Check the current version using:
+* Python version between 3.7 and 3.9. Check the current version using the following command:
 ```bash
 #  Mac/Linux/Windows 
 python --version
