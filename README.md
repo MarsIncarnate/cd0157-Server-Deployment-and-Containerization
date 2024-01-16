@@ -38,6 +38,7 @@ The forked repository has been cloned locally for further development.
 ```
 
 # Prerequisites Completed
+
 All prerequisites for the project have been satisfied, including:
 
 Docker Desktop installation
@@ -47,7 +48,9 @@ AWS Account configuration
 Python version verification (between 3.7 and 3.9)
 PIP upgrade to version 19.x or higher
 Terminal setup (GitBash for Windows users)
-Command line utilities installation:
+
+# Command line utilities installation:
+
 AWS CLI configuration
 EKSCTL installation
 KUBECTL installation
